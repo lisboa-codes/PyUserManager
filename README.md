@@ -26,7 +26,10 @@ Para executar este projeto, siga estas etapas:
 2. **Instalação de Dependências**:
    Certifique-se de que Python está instalado em seu sistema. Em seguida, instale as dependências necessárias executando:
 
-python caminho/do/script.py
+Para instalar as dependências necessárias para este projeto, execute o seguinte comando no terminal:
+```
+pip install pillow pyperclip
+```
 
 3. **Execução**:
 Navegue até a pasta do projeto e execute o script Python:
